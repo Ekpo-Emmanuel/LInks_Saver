@@ -46,7 +46,9 @@ This is a Link Saver Service like Linktree
 
 :heavy_check_mark: Save Links and names to Database;\
 :heavy_check_mark: Edit Links;\
-:heavy_check_mark: Share Links;
+:heavy_check_mark: Share Links;\
+:heavy_check_mark: Sort and Filtering;\
+
 
 ## :rocket: Technologies ##
 
