@@ -57,6 +57,7 @@ The following tools were used in this project:
 - [Javascript](https://pt-br.reactjs.org/)
 - [JQuery](https://reactnative.dev/)
 
+
 ## :white_check_mark: Requirements ##
 
 Before starting :checkered_flag:, you need to have [XAMPP](https://www.apachefriends.org/download.html) installed.
@@ -76,11 +77,12 @@ $ cd configs/
 # Run the project
 $ http://localhost/URL_SHORT/
 
-
+```
 ## :memo: License ##
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 Made with :heart: by <a href="https://github.com/Ekpo-Emmanuel" target="_blank">Emmanuel Ekpo</a>
+
 
 <a href="#top">Back to top</a>
