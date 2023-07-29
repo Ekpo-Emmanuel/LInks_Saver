@@ -6,7 +6,7 @@
   <!-- <a href="https://url_short.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">URL_SHORT</h1>
+<h1 align="center">URL Save Service</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/Ekpo-Emmanuel/blog-project?color=56BEB8">
