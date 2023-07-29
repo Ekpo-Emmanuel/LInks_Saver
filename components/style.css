@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@500;600;900&display=swap');
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.input-container {
+  background: rgb(65,163,214);
+background: linear-gradient(29deg, rgba(65,163,214,1) 0%, rgba(193,253,251,1) 100%);
+height: 100vh;
+  width: 100%;
+  display: flex;
+  padding: 30px 50px;
+  flex-direction: column;
+  /* align-items: center; */
+  justify-content: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  background-color: #fff;
+}
+
+.input-container h1 {
+  font-family: 'Playfair Display', serif;
+  /* font-size: 3.5rem; */
+  color: #fff;
+  margin-bottom: 1.5rem;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+.input-container form 
+{
+  width: 100%;
+}
+.input-container form .name
+{
+  display: flex;
+  flex-direction: column;
+  margin: 5px 0;
+}
+.input-container form .name input 
+{
+  padding: 10px 10px;
+  font-size: 12px;
+  box-sizing: border-box;
+  font-family: 'Montserrat Alternates', sans-serif;
+  border-radius: 5px;
+  border: none;
+}
+.input-container form input[type="submit"] 
+{
+  display: block;
+  padding: 8px 20px;
+  border: none;
+  cursor: pointer;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 12px;
+  border-radius: 5px;
+  margin-top: 10px;
+
+}
+.input-container form input[type="submit"]:hover 
+{
+  background-color: #dbdada;
+}
+
+
+
+
+
+table tbody tr:nth-child(even) {
+  background-color: #f1f1f1;
+  }
+  table {
+      border-collapse: collapse;
+      background-color: #F8F9FB;
+      padding: 10px;
+      border-radius: 10px;
+      font-family: 'Montserrat Alternates', sans-serif;
+      width: 100%;
+      margin-top: 20px;
+  }
+  thead tr th{
+      font-weight: 500;
+      /* text-align: left; */
+      text-align: center;
+      padding: 10px;
+      text-align: left;
+      font-size: 14px;
+  }
+  table tbody tr th {
+      text-align: left;
+      font-weight: 500;
+      font-size: 12px;
+      text-align: #fff;
+      padding: 10px;
+  }
+  table tbody tr td {
+      text-align: left;
+      font-weight: 500;
+      font-size: 12px;
+      text-align: #fff;
+      padding: 10px;
+  }
+
+
+
+
+
+
+
+
+*
+{
+  padding: 0;
+  margin: 0;
+}
+
+.footer 
+{
+  font-family: 'Montserrat Alternates', sans-serif;
+  background-color: #272727;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  color: #969696;
+}
+.footer .links 
+{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 8px;
+  justify-content: space-between;
+}
+.footer .links a {
+  color: #fff;
+  display: flex;
+}
+
+.footer .socials 
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  position: relative;
+}
+.footer .socials a 
+{
+  font-size: 12px;
+  margin: 0px 20px;
+  text-transform: capitalize;
+  transition: 0.3s;
+  width: 100%;
+  display: flex;
+  position: relative;
+}
+.footer .socials a:hover 
+{
+  color: #fff;
+}
+.footer .socials a ion-icon 
+{
+  color: #fff;
+  position: absolute;
+  left: 0;
+  transform: translateX(-30px);
+}
+
+
+@media (max-width: 800px) 
+{
+  .input-container 
+  {
+    padding: 20px;
+    /* height: 80vh; */
+  }
+  table 
+  {
+    width: 100%;
+    overflow: scroll;
+  }
+}
