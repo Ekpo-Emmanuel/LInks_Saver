@@ -83,6 +83,4 @@ This project is under license from MIT. For more details, see the [LICENSE](LICE
 
 Made with :heart: by <a href="https://github.com/Ekpo-Emmanuel" target="_blank">Emmanuel Ekpo</a>
 
-&#xa0;
-
 <a href="#top">Back to top</a>
